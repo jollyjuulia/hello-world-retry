@@ -5,7 +5,7 @@ img {
 
 h1{
     color: rgba(128, 111, 132, 0.828);
-    font-family: cursive;
+    font-family: "Raleway Dots";
     text-align: center;
 }
 
@@ -64,3 +64,9 @@ body {
 img{
     padding: 10px;
 }
+
+.raleway-dots-regular {
+    font-family: "Raleway Dots", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
