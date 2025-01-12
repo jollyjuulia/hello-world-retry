@@ -1,0 +1,72 @@
+img {
+    border-radius: 9 px;
+    align-items:center ;
+}
+
+h1{
+    color: rgba(128, 111, 132, 0.828);
+    font-family: "Raleway Dots";
+    text-align: center;
+}
+
+h2 {
+    color: rgb(232, 35, 42);
+    font-family: cursive;
+    text-decoration: dotted;
+    text-align: center;
+
+}
+
+h3{
+    color: rgb(190, 34, 34);
+    font-size: 100px;
+    font-family: cursive;
+    text-align: center;
+  
+    ;
+}
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+    padding: 5px;
+    background-color: rgba(231, 163, 186, 0.331);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+p {
+  background-image: url('sushi.jpg');
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color: lightskyblue;
+    text-align: center;
+   
+}
+body {
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Avenir', sans-serif;
+    color: #33475b;
+}
+img{
+    padding: 10px;
+}
+
+.raleway-dots-regular {
+    font-family: "Raleway Dots", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
