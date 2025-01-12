@@ -71,3 +71,7 @@ img{
     font-weight: 400;
     font-style: normal;
   }
+
+a:hover {
+color: darkred;
+}
