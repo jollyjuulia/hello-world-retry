@@ -11,7 +11,7 @@ h1{
 
 h2 {
     color: rgb(232, 35, 42);
-    font-family: cursive;
+    font-family: "Raleway Dots";
     text-decoration: dotted;
     text-align: center;
 
@@ -28,7 +28,7 @@ h3{
 
 p{
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: cursive, Times, serif;
 }
 
 div{
@@ -49,9 +49,10 @@ p {
 }
 
 a{
-    font-family: 'Times New Roman', Times, serif;
-    color: lightskyblue;
+    font-family: "Raleway Dots", Times, serif;
+    color: rgb(197, 150, 11);
     text-align: center;
+    font-size: 20 px;
    
 }
 body {
