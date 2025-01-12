@@ -74,6 +74,7 @@ img{
 
 #sushi{
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+    
 }
