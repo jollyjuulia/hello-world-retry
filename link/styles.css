@@ -68,13 +68,13 @@ body {
   }
 
 img{
-    width: 30px;
+    width: 50px;
     height: auto
 }
 
 #sushi{
     flex-direction: row;
     justify-content: center;
-    align-content: space-around;
+   
     
 }
