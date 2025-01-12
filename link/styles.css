@@ -72,7 +72,7 @@ img{
     height: auto
 }
 
-#sushi {
+.sushi {
 
     flex-direction: row;
     justify-content: center; 
